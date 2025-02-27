@@ -6,8 +6,7 @@ You are hired by Brightness, a hypermarket chain company, as a data analyst. You
 A)	What was the total number of terminations in 2020? 			
 ________________________________________
 B)	Calculate the 2021 projected termination knowing that termination rate has grown around the world at an average of 7%
-(1 mark)
-       Supportive formula: Projection termination of 2021 = Terminations of 2020 + (Terminations of 2020*7%)
+
 _____________________________
 C)	After you perform the calculation, create a table to study the effect of the rate on the projection of terminations 2021 (starting from 4% until 10% with 0.5% increments __________                                                
 D)	What would be the projected terminations if it is expected to grow by 4.5%?                    
@@ -30,3 +29,5 @@ Fill out the Emp_PrevSTATUS accordingly
 
 
 -END OF CASE STUDY-
+
+        
